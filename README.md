@@ -34,5 +34,5 @@ Apache 2.0. See [LICENSE](LICENSE).
 
 ---
 
-> Built by Govind Tiwari, 2025. Contributions welcome!
+> Built by Govind, 2025. Contributions welcome!
 
